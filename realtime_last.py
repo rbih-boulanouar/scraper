@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 """
-    authors: RBIH BOULANOUAR ,LOUZE RIDHA
+    authors: RBIH BOULANOUAR
 
     python version 2.7
 
